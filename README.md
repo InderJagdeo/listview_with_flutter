@@ -1,4 +1,4 @@
-# ListView-With-ReactNative
+# ListView-With-Flutter
 Created a simple 'List View' example to show the list of users and their details with the BloC architecture using the dart language in Flutter.
 
 ## Technologies used:
