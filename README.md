@@ -6,7 +6,7 @@ Created a simple 'List View' example to show the list of users and their details
   2. Architecture: BloC Architecture
 
 
-![ListView](https://user-images.githubusercontent.com/29178012/205894743-6966baeb-b3ac-4b05-982b-87484ef20673.svg)
+![ListView](https://github.com/InderJagdeo/listview_with_flutter/assets/29178012/6eaf5a57-495c-4f4f-b879-8c0127349702)
 
 
 ## Getting Started
